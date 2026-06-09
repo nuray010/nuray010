@@ -1,128 +1,132 @@
+<!--
+███╗   ██╗██╗   ██╗██████╗  █████╗ ██╗
+████╗  ██║██║   ██║██╔══██╗██╔══██╗██║
+██╔██╗ ██║██║   ██║██████╔╝███████║██║
+██║╚██╗██║██║   ██║██╔══██╗██╔══██║██║
+██║ ╚████║╚██████╔╝██║  ██║██║  ██║██║
+╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Nurai%20👋&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Backend%20Developer%20|%20Python%20Enthusiast%20|%20ML%20Explorer&descAlignY=58&descSize=18" width="100%"/>
+```
+███╗   ██╗██╗   ██╗██████╗  █████╗ ██╗
+████╗  ██║██║   ██║██╔══██╗██╔══██╗██║
+██╔██╗ ██║██║   ██║██████╔╝███████║██║
+██║╚██╗██║██║   ██║██╔══██╗██╔══██║██║
+██║ ╚████║╚██████╔╝██║  ██║██║  ██║██║
+╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
+```
 
 </div>
 
 ---
 
-<div align="center">
+```zsh
+nuray@github:~$ cat about.json
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;FastAPI+%2B+SQLAlchemy+%2B+PostgreSQL;PyTorch+%26+Machine+Learning;Docker+%26+AWS+EC2+Deployment;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-```python
-class Nurai:
-    name       = "Nurai"
-    username   = "nuray010"
-    location   = "Kyrgyzstan 🇰🇬"
-    role       = "Backend Developer"
-    education  = "Computer Science Student"
-
-    languages  = ["Python", "SQL"]
-    frameworks = ["FastAPI", "SQLAlchemy", "Alembic", "Pydantic"]
-    ml_stack   = ["PyTorch", "torchvision", "Streamlit"]
-    devops     = ["Docker", "Docker Compose", "Nginx", "AWS EC2"]
-    databases  = ["PostgreSQL"]
-
-    currently_learning = ["Advanced Backend Architecture", "Machine Learning"]
-    fun_fact           = "I build neural networks AND REST APIs 🤖"
+```json
+{
+  "name"      : "Nurai",
+  "role"      : "Backend Developer",
+  "location"  : "Kyrgyzstan 🇰🇬",
+  "education" : "Computer Science Student",
+  "stack"     : ["Python", "FastAPI", "SQLAlchemy", "PyTorch", "Docker", "AWS EC2"],
+  "database"  : "PostgreSQL",
+  "currently" : "Building e-commerce APIs & training ML models",
+  "fun_fact"  : "I write REST APIs by day and train neural nets by night 🤖"
+}
 ```
 
 ---
 
-## 🛠️ Tech Stack
+```zsh
+nuray@github:~$ ls -la projects/
+```
 
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-CC2927?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-</p>
-
-### Database & Migrations
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Alembic-5A5A5A?style=for-the-badge&logo=alembic&logoColor=white"/>
-</p>
-
-### Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/torchvision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
-
-### DevOps & Cloud
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+```
+drwxr-xr-x  shop_app2/    FastAPI · PostgreSQL · Docker · AWS EC2 · JWT Auth · SQLAdmin
+drwxr-xr-x  Fashion/      PyTorch CNN · Streamlit · Fashion MNIST · 10 clothing classes
+drwxr-xr-x  lalafo_app/   HTML · Python · Classifieds web application
+```
 
 ---
 
-## 🚀 Featured Projects
+```zsh
+nuray@github:~$ ./skills --show-progress
+```
 
-<div align="center">
-
-| Project | Description | Stack |
-|---|---|---|
-| [🛍️ Shop App 2](https://github.com/nuray010/shop_app2) | Full-featured e-commerce REST API with JWT auth & admin panel | FastAPI · PostgreSQL · Docker · AWS |
-| [👗 Fashion Classifier](https://github.com/nuray010/Fashion) | CNN that classifies clothing images into 10 categories | PyTorch · FastAPI · Streamlit |
-| [🌐 Lalafo App](https://github.com/nuray010/lalafo_app) | Classifieds web application | HTML · Python |
-
-</div>
+![Python](https://img.shields.io/badge/Python-92%25-58a6ff?style=flat-square&labelColor=0d1117&color=58a6ff)
+![FastAPI](https://img.shields.io/badge/FastAPI-85%25-bc8cff?style=flat-square&labelColor=0d1117&color=bc8cff)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-80%25-bc8cff?style=flat-square&labelColor=0d1117&color=bc8cff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-78%25-3fb950?style=flat-square&labelColor=0d1117&color=3fb950)
+![Docker](https://img.shields.io/badge/Docker-75%25-3fb950?style=flat-square&labelColor=0d1117&color=3fb950)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-65%25-e3b341?style=flat-square&labelColor=0d1117&color=e3b341)
+![PyTorch](https://img.shields.io/badge/PyTorch-60%25-ff7eb3?style=flat-square&labelColor=0d1117&color=ff7eb3)
+![Alembic](https://img.shields.io/badge/Alembic-70%25-e3b341?style=flat-square&labelColor=0d1117&color=e3b341)
 
 ---
 
-## 📊 GitHub Stats
+```zsh
+nuray@github:~$ git log --oneline --graph --all
+```
+
+```
+* a1b2c3d (HEAD -> main) feat: deploy shop_app2 to AWS EC2 via Docker Compose
+* e4f5a6b feat: Fashion CNN classifier — 10 classes, Streamlit UI
+* c7d8e9f feat: JWT auth with refresh tokens & SQLAdmin panel
+* b8e1f2a fix: SQLAlchemy back_populates relationships & Alembic migrations
+* d3f4g5h feat: ProductImage, Review, SubCategory routers
+* f1a2b3c init: FastAPI + SQLAlchemy 2.0 + PostgreSQL + Alembic
+```
+
+---
+
+```zsh
+nuray@github:~$ gh stats --user nuray010
+```
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nuray010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuray010&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nuray010&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuray010&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="160"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nuray010&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nuray010&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7eb3&currStreakLabel=bc8cff" width="55%"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+```zsh
+nuray@github:~$ cat tech_stack.txt
+```
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nuray010&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nuray010&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
+| Layer | Tech |
+|---|---|
+| **Language** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Framework** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **ORM** | ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC2927?style=flat-square&logo=sqlalchemy&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+| **Container** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white) |
+| **Proxy** | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
 
 ---
 
-<div align="center">
+```zsh
+nuray@github:~$ uptime
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+```
+🟢 ONLINE — always building something new
+```
 
-</div>
+```zsh
+nuray@github:~$ █
+```
